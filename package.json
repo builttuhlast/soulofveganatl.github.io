@@ -1,0 +1,22 @@
+{
+  "name": "soulofveganatl.github.io",
+  "version": "1.0.0",
+  "description": "Vegan website that is informative as well as providing sea moss gel and other catering services",
+  "main": "\u001b[Z\u001b[Z\u001b[Z\u001b[Z\u001b[Z\u001b[B\u001b[A\u001b[A\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builttuhlast/soulofveganatl.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/builttuhlast/soulofveganatl.github.io/issues"
+  },
+  "homepage": "https://github.com/builttuhlast/soulofveganatl.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
